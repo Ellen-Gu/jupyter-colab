@@ -1,2 +1,0 @@
-# jupyter-colab
-# jupyter-colab
